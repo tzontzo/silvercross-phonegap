@@ -1,0 +1,2 @@
+# th-phonegap
+# silvercross-phonegap
